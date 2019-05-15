@@ -21,8 +21,21 @@ The objective of this task is to detect hate speech in tweets. Tweet contains ne
 
 * Stemming
 
+# WordCloud
 
+![alt text](https://github.com/shreyaswankhede/Twitter-Sentiment-Analysis-in-Python/blob/master/wordcloud.PNG
+ "Correlation between features")
 
+# Feature Extraction:
+<br> 1. Bag Of Words
+<br> 2. TF-IDF
+<br> 3. Word2Vec
+
+# Model Building:
+<br> Building Logistic Regression and Support Vector Machine (SVM) on BOW, TF-IDF & Word2Vec features.
+
+# Results:
+<br> Logistic Regression and SVM on Word2Vec features outperforms the other model.
 
 
 
