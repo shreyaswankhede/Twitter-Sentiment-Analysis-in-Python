@@ -1,0 +1,2 @@
+# Twitter-Sentiment-Analysis-in-Python
+The objective of this task is to detect hate speech in tweets. Tweet contains negative/hate sentiments as well as positive sentiments. So, the task is to classify negative tweets from other tweets.  Given a training sample of tweets and labels, where label '1' denotes the tweet is negative and label '0' denotes the tweet is not negative. The objective is to predict the labels on the test dataset.   
